@@ -14,6 +14,8 @@ Logistics Assistant 是一个基于 Spring AI 和通义大模型的驿站物流�
 - **签收操作**：用户可以在线签收包裹，简化签收流程。
 
 ## 技术细节
+![image](https://github.com/user-attachments/assets/f6e3aa55-5ba1-440f-8970-8617af9c73db)
+
 ### 技术栈
 - Java 17
 - Spring AI
